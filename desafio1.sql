@@ -1,1 +1,1 @@
-select product_name from products;
+SELECT product_name FROM products;
